@@ -29,7 +29,8 @@
 	    <Dependency>kcoreaddons-devel</Dependency>
 	    <Dependency>kconfigwidgets-devel</Dependency>
 	    <Dependency>kwidgetsaddons-devel</Dependency>
-	    <Dependency>extra-cmake-modules</Dependency>	    
+	    <Dependency>extra-cmake-modules</Dependency>
+	    <Dependency>cmake</Dependency>
         </BuildDependencies>
     </Source>
 

@@ -25,7 +25,8 @@
 	    <Dependency>kdoctools-devel</Dependency>
 	    <Dependency>NetworkManager-devel</Dependency>
 	    <Dependency>mobile-broadband-provider-info</Dependency>
-	    <Dependency>extra-cmake-modules</Dependency>    
+	    <Dependency>extra-cmake-modules</Dependency> 
+	    <Dependency>cmake</Dependency>
         </BuildDependencies>
     </Source>
 

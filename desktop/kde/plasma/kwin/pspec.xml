@@ -58,6 +58,7 @@
 	    <Dependency>xcb-util-image-devel</Dependency>
 	    <Dependency>libXcursor-devel</Dependency>
 	    <Dependency>libepoxy-devel</Dependency>
+	    <Dependency>cmake</Dependency>
         <Dependency>libgcc</Dependency>
         <Dependency>libX11-devel</Dependency>
         <Dependency>libxcb-devel</Dependency>    

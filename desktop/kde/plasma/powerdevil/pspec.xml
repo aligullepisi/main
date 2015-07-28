@@ -22,7 +22,8 @@
         <Dependency>libxcb-devel</Dependency>
         <Dependency>libudev-devel</Dependency>
 	    <Dependency>plasma-workspace-devel</Dependency>
-	    <Dependency>extra-cmake-modules</Dependency>	    
+	    <Dependency>extra-cmake-modules</Dependency>
+	    <Dependency>cmake</Dependency>
         </BuildDependencies>
     </Source>
 
